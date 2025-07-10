@@ -12,3 +12,4 @@ C:\Users\ssancheze\Desktop\Courses\CSharp_Udemy\HelloApp\obj\Debug\net8.0\refint
 C:\Users\ssancheze\Desktop\Courses\CSharp_Udemy\HelloApp\obj\Debug\net8.0\HelloApp.pdb
 C:\Users\ssancheze\Desktop\Courses\CSharp_Udemy\HelloApp\obj\Debug\net8.0\HelloApp.genruntimeconfig.cache
 C:\Users\ssancheze\Desktop\Courses\CSharp_Udemy\HelloApp\obj\Debug\net8.0\ref\HelloApp.dll
+C:\Users\ssancheze\Desktop\Courses\CSharp_Udemy\HelloApp\obj\Debug\net8.0\HelloApp.sourcelink.json
