@@ -2,6 +2,7 @@
 {
     static void Main(string[] args)
     {
+        #region Section2
         // Variables();
         // DataTypes();
         // ShowNumericTypes();
@@ -19,8 +20,46 @@
         // ListDictonary();
         // DataStructure();
         // Generics();
+        #endregion
+
+        #region Section3
         // Conditionals();
         // Loops();
-        FizzBuzz();
+        // FizzBuzz();
+        // LoopControlExamples();
+        // LoopGame();
+        // Conversions();
+        // ConvertionToDateTime();
+        // Functions();
+        // PrintMultiplicationTable(7 ,15);
+        // PrintMultiplicationTable(tableLimit: 15, number: 10);
+        // PrintFactorialTable(5);
+        // Tuples();
+        // AnonymousFunctions();
+        #endregion
+
+        #region Section4
+        // TestingClass();
+        // Properties();
+        // Methods();
+        // Force garbage collector
+        // GC.Collect();
+        // GC.WaitForPendingFinalizers();
+        // ProductSalesDemo();
+        // BusFleet();
+        // Inheritance();
+        // AbstractClassExample();
+        // Visibility();
+        // EmployeeManager();
+        #endregion
+
+        #region Section5
+        // HandleException();
+        // Collections();
+        // Linq();
+        // AdvancedLinq.Program.AdvancedLINQ();
+        SalesAnalysis();
+        #endregion
+
     }
 }
