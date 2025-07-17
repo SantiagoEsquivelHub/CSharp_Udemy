@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "05dc700",
+    "Description": "Clean the room",
+    "Completed": true,
+    "CreatedAt": "2024-04-15T00:00:00",
+    "ModifiedAt": "2025-03-10T18:17:56.371587-05:00",
+    "Deleted": true
+  },
+  {
+    "Id": "f73d8fd",
+    "Description": "Eat healthy",
+    "Completed": false,
+    "CreatedAt": "2024-01-15T00:00:00",
+    "ModifiedAt": "2024-01-15T00:00:00",
+    "Deleted": true
+  },
+  {
+    "Id": "3f6c921",
+    "Description": "Study C#",
+    "Completed": false,
+    "CreatedAt": "2025-03-11T14:20:53.051415-05:00",
+    "ModifiedAt": "2025-03-12T12:16:17.74727-05:00",
+    "Deleted": false
+  }
+]

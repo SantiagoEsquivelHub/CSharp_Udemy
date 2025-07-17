@@ -66,7 +66,11 @@
         // DirectoryExample();
         // PathExample();
         // WriteFileExample();
-        ManageJsonFile.Program.ManageJsonFile();
+        // ManageJsonFile.Program.ManageJsonFile();
+        #endregion
+
+        #region Section7
+        TaskMaster.Program.TaskMaster();
         #endregion
 
     }

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "20+ueRLitEc=",
+  "dgSpecHash": "LKiCtk6lt2s=",
   "success": true,
   "projectFilePath": "C:\\Users\\ssancheze\\Desktop\\Courses\\CSharp_Udemy\\HelloApp\\HelloApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ssancheze\\.nuget\\packages\\betterconsoletables\\1.1.3\\betterconsoletables.1.1.3.nupkg.sha512"
+  ],
   "logs": []
 }
