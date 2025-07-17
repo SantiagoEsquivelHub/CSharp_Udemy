@@ -58,7 +58,15 @@
         // Collections();
         // Linq();
         // AdvancedLinq.Program.AdvancedLINQ();
-        SalesAnalysis();
+        // SalesAnalysis();
+        #endregion
+
+        #region Section6
+        // FileExample();
+        // DirectoryExample();
+        // PathExample();
+        // WriteFileExample();
+        ManageJsonFile.Program.ManageJsonFile();
         #endregion
 
     }
